@@ -1,2 +1,2 @@
-# codsoft_taskno3
-C++ task 3 (SIMPLE CALCULATOR)
+# codsoft_taskno2
+C++ task 2 (SIMPLE CALCULATOR)
